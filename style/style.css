@@ -456,12 +456,14 @@ body {
     align-items: center;
     justify-content: space-between;
     padding: 0 120px;
+    z-index: 1;
 }
 
 .footer__box-img {
     position: absolute;
     left: 0;
     bottom: 0;
+    z-index: -1;
 }
 
 .footer__box-title {
