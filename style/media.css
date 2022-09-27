@@ -1,0 +1,999 @@
+@media(max-width:1700px) {
+    .arrow__btn {
+        right: 50px;
+    }
+
+    .contact__form {
+        height: 700px;
+    }
+
+    .contact__box {
+        height: 500px;
+    }
+}
+
+@media(max-width:1500px) {
+    .arrow__btn {
+        right: 30px;
+    }
+}
+
+@media(max-width:1400px) {
+    .arrow__btn {
+        display: none;
+    }
+}
+
+@media(max-width:1270px) {
+    .contact__box {
+        padding: 0 100px;
+    }
+
+    .graduate__box {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media(max-width:1200px) {
+    .contact__box {
+        padding: 0 80px;
+    }
+
+    .contact__form-title {
+        font-size: 45px;
+    }
+
+    .contact__form {
+        max-width: 550px;
+        height: 650px;
+        padding: 40px;
+    }
+
+    .contact__form-text {
+        margin-bottom: 40px;
+    }
+
+    .form input {
+        margin-bottom: 30px;
+    }
+
+    .team__title {
+        margin: 50px 0 100px;
+        font-size: 55px;
+    }
+
+    .graduate__title {
+        font-size: 55px;
+        margin: 50px 0;
+    }
+
+
+    .team__box {
+        justify-content: center;
+    }
+
+    .team__card:nth-of-type(3) {
+        margin-top: 100px;
+    }
+
+    .team__card:nth-of-type(2) {
+        margin-right: 0;
+    }
+
+    .header__box {
+        margin-top: 150px;
+    }
+
+    .header__title {
+        font-size: 60px;
+        max-width: 500px;
+        width: 100%;
+    }
+
+    .header__img {
+        width: 500px;
+    }
+
+    .header {
+        padding: 30px 0;
+    }
+
+    .course__box {
+        justify-content: center;
+        margin-bottom: 50px;
+    }
+
+    .course__title {
+        margin: 50px auto 30px;
+        font-size: 50px;
+        max-width: 700px;
+        width: 100%;
+    }
+
+    .course__card {
+        margin-top: 30px;
+    }
+
+    .about__title {
+        font-size: 50px;
+    }
+
+    .about__subtitle {
+        margin-top: 30px;
+    }
+
+    .about__img {
+        max-width: 500px;
+        width: 100%;
+    }
+
+    .about__text {
+        font-size: 22px;
+        text-align: justify;
+    }
+
+    .about__subtitle {
+        font-size: 28px;
+    }
+
+    .about__left {
+        max-width: 580px;
+    }
+}
+
+@media(max-width:1130px) {
+    .footer__box {
+        margin-top: 60px;
+    }
+
+    .footer__box {
+        padding: 0 80px;
+    }
+
+    .footer__box-title {
+        max-width: 550px;
+        font-size: 40px;
+    }
+}
+
+@media(max-width:1000px) {
+    .contact__box {
+        padding: 0 50px;
+        height: 350px;
+    }
+
+    .contact__form-title {
+        font-size: 40px;
+        line-height: 120%;
+    }
+
+    .contact__form {
+        max-width: 480px;
+        height: 500px;
+        padding: 30px;
+    }
+
+    .contact__item:nth-of-type(2) {
+        margin: 30px 0;
+    }
+
+    .contact__item-title {
+        font-size: 25px;
+        display: flex;
+        align-items: center;
+    }
+
+    .form button {
+        width: 150px;
+        height: 50px;
+        font-size: 18px;
+    }
+
+    .contact__item-title img {
+        width: 25px;
+    }
+
+    .contact__form-text {
+        margin-bottom: 15px;
+    }
+
+    .contact__info {
+        margin-right: 30px;
+    }
+
+    .form input {
+        margin-bottom: 15px;
+    }
+
+    .footer__box {
+        margin-top: 50px;
+        height: 240px;
+    }
+
+    .footer__box {
+        padding: 0 50px;
+    }
+
+    .footer__box-title {
+        max-width: 500px;
+        font-size: 35px;
+    }
+
+    .footer__box-link {
+        width: 190px;
+        height: 60px;
+    }
+
+    .footer__info-link {
+        margin-right: 30px;
+    }
+
+    .team__title {
+        font-size: 50px;
+    }
+
+    .graduate__title {
+        font-size: 50px;
+    }
+
+    .header__box {
+        margin-top: 100px;
+        align-items: center;
+    }
+
+    .header__title {
+        font-size: 50px;
+        max-width: 400px;
+        width: 100%;
+    }
+
+    .header__img {
+        width: 400px;
+    }
+
+    .course__card {
+        max-width: 320px;
+    }
+
+    .card__info {
+        height: 320px;
+    }
+
+    .card__info-img {
+        width: 100%;
+    }
+
+    .card__item {
+        padding: 30px;
+    }
+
+    .course__title {
+        font-size: 40px;
+        margin: 30px auto 10px;
+    }
+
+    .card__info-text {
+        font-size: 16px;
+    }
+
+    .about__box {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .about__subtitle {
+        justify-content: center;
+    }
+
+    .about__text {
+        text-align: center;
+    }
+
+    .team__card {
+        max-width: 330px;
+        padding-bottom: 50px;
+        padding-top: 70px;
+        padding: 70px 30px 50px;
+    }
+
+    .team__card-text {
+        margin-top: 25px;
+    }
+
+    .team__img {
+        width: 140px;
+    }
+}
+
+@media(max-width:750px) {
+    .team__card {
+        max-width: 280px;
+        padding-bottom: 50px;
+        padding: 60px 20px 40px;
+    }
+
+    .team__card-text {
+        margin-top: 20px;
+        font-size: 14px;
+    }
+
+    .team__img {
+        width: 110px;
+    }
+
+    .team__card-title {
+        font-size: 25px;
+    }
+}
+
+@media(max-width:800px) {
+    .contact__box {
+        flex-direction: column;
+        height: 700px;
+        justify-content: center;
+        text-align: center;
+        padding: 0 15px;
+    }
+
+    .contact__item-title {
+        justify-content: center;
+    }
+
+    .contact__info {
+        display: flex;
+        margin-right: 0;
+        margin-bottom: 30px;
+    }
+
+    .contact__item:nth-of-type(2) {
+        margin: 0 30px;
+    }
+
+    .footer__box {
+        margin-top: 30px;
+        height: 220px;
+    }
+
+    .footer__box {
+        padding: 0 30px;
+    }
+
+    .footer__box-title {
+        max-width: 400px;
+        font-size: 30px;
+    }
+
+    .footer__box-link {
+        width: 160px;
+        height: 50px;
+        font-size: 20px;
+    }
+
+    .footer__info-link {
+        margin-right: 30px;
+    }
+
+    .footer__item {
+        padding: 0 30px;
+    }
+
+    .footer__title {
+        margin: 15px 0;
+    }
+
+    .footer__nav {
+        padding: 15px 0;
+    }
+
+    .footer__info {
+        margin-bottom: 15px;
+    }
+
+    .footer__text {
+        margin-bottom: 15px;
+    }
+
+    .team__title {
+        font-size: 45px;
+    }
+
+    .graduate__title {
+        font-size: 45px;
+    }
+
+    .header {
+        position: relative;
+        overflow: hidden;
+        padding-top: 0;
+    }
+
+    .nav {
+        position: fixed;
+        backdrop-filter: blur(50px);
+        padding: 15px;
+        z-index: 999;
+        background-color: rgba(77, 77, 218, 0.1);
+    }
+
+    .nav__list {
+        flex-direction: column;
+        align-items: center;
+        height: 100vh;
+        position: absolute;
+        z-index: 10;
+        top: 0;
+        right: -180px;
+        padding: 50px;
+        background-color: rgb(152, 152, 255);
+        transition: 1s;
+    }
+
+    .close {
+        top: 10px;
+        left: 10px;
+        position: absolute;
+    }
+
+    .nav__list.active {
+        right: 0;
+    }
+
+    .menu {
+        display: block;
+    }
+
+    .nav__link {
+        margin: 0 0 40px;
+        display: block;
+    }
+
+    .header__title {
+        font-size: 40px;
+    }
+
+    .header__img {
+        width: 350px;
+    }
+
+    .header__box {
+        margin-top: 80px;
+    }
+
+    .course__card {
+        max-width: 280px;
+    }
+
+    .card__info {
+        height: 280px;
+    }
+
+    .card__item {
+        padding: 20px;
+    }
+
+    .card__info-text {
+        font-size: 14px;
+    }
+
+    .course__title {
+        font-size: 40px;
+        margin: 30px auto 10px;
+    }
+
+    .card__item-title {
+        font-size: 22px;
+    }
+
+    .card__item-cost {
+        font-size: 23px;
+        margin-top: 20px;
+    }
+}
+
+@media(max-width:720px) {
+    .footer__box {
+        margin-top: 30px;
+        height: 200px;
+        overflow: hidden;
+    }
+
+    .footer__box {
+        padding: 0 15px;
+    }
+
+    .footer__box-title {
+        max-width: 350px;
+        font-size: 27px;
+    }
+
+    .footer__box-link {
+        width: 160px;
+        height: 50px;
+        font-size: 20px;
+    }
+
+    .footer__info-link {
+        margin-right: 30px;
+    }
+
+    .footer__item {
+        padding: 0 15px;
+    }
+
+    .footer__title {
+        margin: 15px 0;
+    }
+
+}
+
+@media(max-width:680px) {
+    .footer__info {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer__title {
+        text-align: center;
+    }
+
+    .footer__nav-link img {
+        width: 40px;
+    }
+
+
+    .graduate__box {
+        overflow: hidden;
+        overflow-x: auto;
+        align-items: start;
+    }
+
+    .graduate__card {
+        width: 300px;
+        flex-shrink: 0;
+        margin-right: 15px;
+        margin-bottom: 15px;
+    }
+
+    .gr_1,
+    .gr_2,
+    .gr_3,
+    .gr_4,
+    .gr_5,
+    .gr_6,
+    .gr_7,
+    .gr_8 {
+        height: 280px;
+        background-position: center;
+    }
+
+    .graduate__left {
+        margin-right: 0;
+    }
+
+
+
+    .graduate__left,
+    .graduate__right {
+        display: flex;
+        justify-content: flex-start;
+        align-items: start;
+    }
+
+
+    .header__box {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .header__title {
+        max-width: 600px;
+        width: 100%;
+        font-size: 38px;
+    }
+
+    .header__text {
+        margin: 20px auto;
+    }
+
+    .nav__link {
+        margin-bottom: 30px;
+    }
+
+    .course__title {
+        margin: 15px auto;
+        padding: 0 15px;
+    }
+
+    .course__card {
+        margin-top: 15px;
+        max-width: 250px;
+    }
+
+    .card__info {
+        height: 250px;
+    }
+
+    .course__card:nth-of-type(2) {
+        margin-right: 0;
+    }
+
+    .course__box {
+        margin-bottom: 40px;
+    }
+
+    .about__title {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+
+    .about__link {
+        font-size: 22px;
+    }
+
+    .about__subtitle {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+
+    .about__subtitle img {
+        width: 25px;
+    }
+
+    .about__text {
+        font-size: 20px;
+        text-align: center;
+    }
+}
+
+@media(max-width:620px) {
+    .contact__box {
+        height: 550px;
+    }
+
+    .contact__form {
+        height: 400px;
+        width: 400px
+    }
+
+    .contact__form {
+        padding: 15px
+    }
+
+    .contact__form-text {
+        font-size: 15px;
+        margin: 10px 0;
+        line-height: 120%;
+    }
+
+    .form input {
+        padding-bottom: 8px;
+        margin-bottom: 10px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .contact__form-title {
+        font-size: 30px;
+    }
+
+    .form button {
+        width: 120px;
+        height: 40px;
+        font-size: 16px;
+        margin-top: 15px;
+    }
+
+    .contact__item-title {
+        margin-bottom: 0;
+        font-size: 20px;
+        line-height: 120%;
+    }
+
+    .contact__item-title img {
+        width: 20px;
+    }
+
+    .contact__item:nth-of-type(2) {
+        margin: 0 15px;
+    }
+
+    .contact__item-link {
+        font-size: 16px;
+    }
+
+    .team__title {
+        margin-top: 30px;
+        margin-bottom: 70px;
+        font-size: 40px;
+    }
+
+    .team__box {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .team__card:nth-of-type(2) {
+        margin-left: 0;
+        margin-top: 70px;
+    }
+
+    .team__card:nth-of-type(3) {
+        margin-top: 70px;
+    }
+
+    .team__card {
+        max-width: 280px;
+        padding-bottom: 50px;
+        padding: 60px 20px 40px;
+    }
+
+    .team__card-text {
+        margin-top: 20px;
+        font-size: 14px;
+    }
+
+    .team__img {
+        width: 110px;
+    }
+
+    .team__card-title {
+        font-size: 25px;
+    }
+}
+
+@media(max-width:560px) {
+    .footer__box {
+        margin: 15px 0;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .footer__box-title {
+        max-width: 550px;
+        width: 100%;
+        margin-bottom: 15px;
+        font-size: 25px;
+    }
+
+    .footer__info-link {
+        margin: 0 10px;
+    }
+
+    .footer__item {
+        padding: 0;
+    }
+
+    .footer__info-list {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .footer__box-img {
+        width: 250px;
+    }
+
+    .footer__title {
+        margin: 10px 0;
+    }
+
+    .footer__nav {
+        padding: 10px 0;
+    }
+
+    .footer__nav-link img {
+        width: 35px;
+    }
+
+    .course__box {
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+
+    .course__card:nth-of-type(2) {
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
+
+@media(max-width:520px) {
+    .contact__info {
+        flex-direction: column;
+        margin-bottom: 0
+    }
+
+    .contact__form {
+        height: 350px;
+        max-width: 350px;
+        width: 100%;
+        padding: 10px
+    }
+
+    .contact__form-title {
+        font-size: 25px;
+    }
+
+    .contact__form-text {
+        font-size: 14px;
+    }
+
+    .form input {
+        padding-bottom: 4px;
+        font-size: 14px;
+    }
+
+    .form button {
+        width: 110px;
+        font-size: 14px;
+        margin-top: 10px;
+    }
+
+    .contact__item:nth-of-type(2) {
+        margin-bottom: 10px;
+    }
+
+    .contact__item {
+        margin-bottom: 10px;
+    }
+}
+
+@media(max-width:500px) {
+    .about__title {
+        font-size: 35px;
+        margin-bottom: 0;
+    }
+
+    .about__link {
+        font-size: 20px;
+        margin-top: 15px;
+    }
+
+    .about__subtitle {
+        font-size: 22px;
+    }
+
+    .about__subtitle img {
+        width: 22px;
+    }
+
+    .about__text {
+        font-size: 18px;
+        text-align: justify;
+    }
+
+    .header__title {
+        font-size: 30px;
+    }
+
+    .header__text {
+        font-size: 16px;
+        margin: 15px auto;
+        line-height: 120%;
+        max-width: 350px;
+        width: 100%;
+    }
+
+    .header__img {
+        max-width: 300px;
+        width: 100%;
+    }
+
+    .nav__logo img {
+        width: 90px;
+    }
+
+    .menu__img {
+        width: 35px;
+    }
+
+    .course__title {
+        font-size: 35px;
+    }
+
+    .card__item-cost {
+        font-size: 20px;
+        margin-top: 15px;
+    }
+
+    .card__item-title {
+        font-size: 20px;
+    }
+
+    .card__item-text {
+        line-height: 180%;
+    }
+
+    .card__item {
+        padding: 18px 20px;
+    }
+
+    .card__info-text {
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 150%;
+    }
+}
+
+@media(max-width:400px) {
+    .graduate__title {
+        font-size: 40px;
+        margin: 35px 0;
+    }
+
+    .graduate__box {
+        overflow: hidden;
+        overflow-x: auto;
+        align-items: start;
+    }
+
+    .graduate__card {
+        width: 250px;
+        flex-shrink: 0;
+        margin-right: 15px;
+        margin-bottom: 15px;
+    }
+
+    .gr_1,
+    .gr_2,
+    .gr_3,
+    .gr_4,
+    .gr_5,
+    .gr_6,
+    .gr_7,
+    .gr_8 {
+        height: 250px;
+        background-position: center;
+    }
+
+    .team__card:nth-of-type(2) {
+        margin-top: 50px;
+    }
+
+    .team__card:nth-of-type(3) {
+        margin-top: 50px;
+    }
+
+    .team__card {
+        max-width: 250px;
+        padding-bottom: 50px;
+        padding: 40px 15px 30px;
+    }
+
+    .team__card-text {
+        margin-top: 15px;
+        font-size: 13px;
+    }
+
+    .team__img {
+        width: 90px;
+    }
+
+    .team__card-title {
+        font-size: 20px;
+    }
+
+    .header__title {
+        font-size: 24px;
+    }
+
+    .header__text {
+        font-size: 15px;
+        margin: 10px auto;
+    }
+
+    .header__img {
+        width: 250px;
+    }
+
+    .menu__img {
+        width: 30px;
+    }
+}
+
+@media(max-width:1200px) {}
+
+@media(max-width:1200px) {}
+
+@media(max-width:1200px) {}
